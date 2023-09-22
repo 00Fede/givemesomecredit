@@ -1,5 +1,11 @@
-# Predicción de default financiero usando métodos de aprendizaje automático
-Los notebooks contenidos en este repositorio trabajan en la competición de Kaggle [Give Me Some Credit](https://www.kaggle.com/competitions/GiveMeSomeCredit) para proponer un modelo de machine learning que permite predecir si un usuario entrará en mora por más de 90 días.
+# Notebooks
+# Monografía presentada para optar al título de Especialista en Analítica y Ciencia de Datos
+
+Este repositorio contiene los notebooks generados en el trabajo de monografía titulada "Predicción de default financiero usando métodos de aprendizaje automático", presentada por los estudiantes Federico Ocampo Ortiz y Andrés Felipe Orrego Quintero como requisito para obtener el título de Especialista en Analítica y Ciencia de Datos. El trabajo fue desarrollado bajo la asesoría de la Ph.D. Maria Bernarda Salazar Sánchez.
+
+## Resumen
+El objetivo de este Desarrollar un modelo para predecir si una persona entrará en mora por 90 días tal que permita a entidades bancarias definir el riesgo financiero asociado a una solicitud de crédito. Los notebooks contenidos en este repositorio trabajan en la competición de Kaggle [Give Me Some Credit](https://www.kaggle.com/competitions/GiveMeSomeCredit).
+
 
 ## Estructura de Notebooks
 ### Preprocessing
