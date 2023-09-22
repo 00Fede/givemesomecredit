@@ -1,4 +1,3 @@
-# Notebooks
 # Monografía presentada para optar al título de Especialista en Analítica y Ciencia de Datos
 
 Este repositorio contiene los notebooks generados en el trabajo de monografía titulada "Predicción de default financiero usando métodos de aprendizaje automático", presentada por los estudiantes Federico Ocampo Ortiz y Andrés Felipe Orrego Quintero como requisito para obtener el título de Especialista en Analítica y Ciencia de Datos. El trabajo fue desarrollado bajo la asesoría de la Ph.D. Maria Bernarda Salazar Sánchez.
