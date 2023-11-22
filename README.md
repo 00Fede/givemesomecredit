@@ -17,10 +17,7 @@ El archivo resultante es el csv [Preprocessed](data/Preprocessed.csv) alojado en
 ### Model_Implementation_Train
 En este notebook  se códifica la implementación del modelo y su posterior entrenamiento, así como la selección de los mejores hiperparámetros.
 
-El archivo resultante es el export del modelo seleccionado para ejecutar la validación.
-
-### Model_Validation
-En este notebook se hace la validación del modelo seleccionado con el dataset de validación, incluyendo además el análisis de los resultados y conclusiones finales.
+Finalmente se hace la validación del modelo seleccionado con el dataset de validación, incluyendo además el análisis de los resultados y conclusiones finales.
 
 ## Cómo ejecutar
 El notebook fue ejecutado en el entorno jupyter. Se deben tener todas las librerías correspondientes para poder ejecutar los scripts.
